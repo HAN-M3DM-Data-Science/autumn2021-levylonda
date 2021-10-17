@@ -1,0 +1,42 @@
+---
+title: "Data Science for Business Assignment 1 - LAJ Londa"
+output: html_notebook
+---
+Data Science for Business Week 1 – LAJ Londa - 625847
+Answer the following questions. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis.
+•	Why was data-driven decision-making (3DM) useful in this business case?
+•	How did the organization apply 3DM?
+•	What can the organization do with 3DM that they couldn’t do before?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PrCpaI8m540" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Case: Southwest Airlines
+
+Southwest Airlines is a major low-cost carrier based in the United States of America(Baileyg,2019). Southwest Airlines applied big data to analyze the business process and gain insights from the data collected. Southwest Airlines operated a large number of planes with accompanying flights each day.
+
+To gain insights into the business process, Southwest Airlines became the first domestic airline in the United States to use a big data system. Southwest partner up with GE (General Electric) and use the big data system that GE developed to manage a fleet of nearly 700 Boeing 737s. 
+
+           Data-driven decision-making (3DM) is important to Southwest Airlines, due to the size and scale of operations. Gaining insights from big data facilitates better operational efficiency and creates a competitive edge compared to the competitors that have not applied big data in their business(Noyes, 2014)(Thomas, n.d.). 
+
+           Big data allows Southwest airlines to collect operational data and turn it into insights. The data collected includes planning data, operational data, details about fuel, passenger and cargo loads, information about the weather, and navigational data. By utilizing 3DM, Southwest airlines can optimize their operational business process, such as monitoring cost in real-time because of the data from hundreds of aircraft. Additionally, there are also data on everything from weather to navigation, this additional data enable more precise planning for Southwest airlines. The 3DM may help Southwest to save fuel and increase efficiency(General Electric, 2015). 
+
+           Southwest airlines are suitable as a business case study, due to the scale of their operation and how they have utilized data for their business operation. Data-driven decision making allows them to predict and forecasted their operation from all sides, such as marketing, supply chain, operation, etc.. because of the comprehensive data they collected, even the data from individual planes they operated. 
+
+
+
+
+
+
+
+
+
+
+
+Reference:
+
+Bailey, J. (2019, December 5). How Southwest Pioneered The Low Cost Carrier Model. Simple Flying. https://simpleflying.com/southwest-lcc-model/
+General Electric. (n.d.). How Big Data and the Industrial Internet Can Help Southwest Save $100 Million on Fuel | GE News. Ge.Com. Retrieved October 8, 2021, from https://www.ge.com/news/reports/big-data-industrial-internet-can-help-southwest-save-100-million-fuel
+Noyes, K. (2014, 19 June). For the airline industry, big data is cleared for take-off. Fortune. https://fortune.com/2014/06/19/big-data-airline-industry/
+Thomas, P. (n.d.). Data driven decision making (DDDM). Prostec. Retrieved 8 oktober 2021, from https://proztec.com/forum-details?id=MzI=
+
