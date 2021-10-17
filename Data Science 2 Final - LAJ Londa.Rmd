@@ -1,0 +1,40 @@
+---
+title: "Data Science for Business Assignment 2 - LAJ Londa"
+output: html_notebook
+---
+
+
+Data Science for Business Week 2 – LAJ Londa - #625847
+Answer the following questions. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis.
+
+Case Study: Gojek
+•	What was the business problem?
+•	How was it translated into a data mining problem?
+•	What is the realized business value?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ssGhuFOYqvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" data-external ="1"></iframe>Gojek is an on-demand multi-service platform and digital payment group based in In Indonesia and operates in multiple Asian countries. Gojek was established in 2010 and rapidly expanded its services offering and the countries it operated in. To support the growth of the company, Gojek heavily uses data to gain insight into the untapped market and optimizing their business process(Tableu, n.d.).
+
+Gojek is a rapidly expanding company and needs to optimize its service and see the GAP in the market while also operating with intense competition from other multi-service platforms. Gojek needs to optimize its operation to increase profitability and satisfy stakeholders involve such as clients, drivers, and other partners to stay competitive against other competitors.
+
+Gojek can optimize its service by looking at the insight from the data collected. Gojek needs to use data to ensure customer satisfaction and maintain the current market base. Data is also used to gain untapped markets and to sway competitors' customers by fulfilling their needs (Gojek,n.d.).
+
+Gojek needs to data-mine from their big data to gain insight for the company's next steps and the business process that needs to be optimized.
+
+The business value of data mining for Gojek is significant, by giving an ability to exploit the gap in the market by gaining insight from data(Mime Asia, 2020). Additionally, data optimization is significant because of the intense competition in multi-service platforms with every competitor utilizing data mining intensively to outdo each other (Wardhani & Shani, 2019). As Gojek does have intense competition in territories they operated, the released business value is crucial for Gojek’s increasing growth.
+
+
+
+
+
+
+
+
+
+
+
+Tableu. (n.d.). GOJEK achieves robust growth with powerful insights from data. Tableau. Retrieved October 8, 2021, from https://www.tableau.com/solutions/customer/gojek-achieves-robust-growth-with-data
+Gojek. (n.d.). Using Data To Appreciate Our Customers - 4 min read. Retrieved October 8, 2021, from https://www.gojek.io/blog/using-data-to-appreciate-our-customers
+Wardhani, D. A., & Shani, A. (2019, April 5). The Amazing Adventures of GOJEK’s Real Data Scientists. Medium. https://medium.com/life-at-go-jek/the-amazing-adventures-of-gojeks-real-data-scientists-20e9497cfe59
+Mime Asia. (2020, October 15). Gojek Uses Machine Learning & AI Technology to Detect Fictional Order. https://www.mime.asia/gojek-uses-machine-learning-ai-technology-to-detect-fictional-order/
+
+

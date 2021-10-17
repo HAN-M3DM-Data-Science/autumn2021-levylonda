@@ -1,0 +1,56 @@
+---
+title: "Data Science for Business Assignment 3 - LAJ Londa"
+output: html_notebook
+---   
+
+
+Data Science Week 3 – LAJ Londa - #625847
+McDonald’s Case Study
+Answer the following questions. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis.
+
+•	What features define a mature data-driven business?
+•	What are the important features of a data culture?
+•	What are the transformation steps towards a mature data-driven business?
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G8Bh0sOBLrw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external ="1"></iframe>
+
+There are many steps in transitioning to be a data-driven business. One of these mature data-driven businesses is McDonald’s, an American fast-food company with operations in over 100 countries across 37,855 outlets as of 2018. McDonald’s used data to optimize their services and create efficiency in the business process, additionally by also exploiting the gap in the market (Chicago Tribune, 2018)(Software Advisory Service, n.d.). 
+The definition of mature data-driven business is when an organization has a solid and clear data strategy, managing the data through its relevancy, and full commitment from the management with data (KPMG,2018).
+
+Features of data culture have different characteristics according to different sources. Forbes classifies it as Commitment, Trust (data sharing), Talent (data literacy and skills), and Sharing (collaboration)(Huffman, 2021). Tableu classifies it as applying data-driven decision making, using data to achieve a business goal, and creation of an open and encouraging community concerning data use (Tableu, n.d). Datacamp decides the feature of data culture as data fluency in the organization, employees involvement with data, skilled human resources with data, and constant feedback for the data usage and application (Data Camp, n,d,). 
+Transition steps to become a mature data-driven business is a long process as a mature data-driven business is also accompanied by a data culture. Harvard business reviews outline three steps needed to take the step to become a mature data-driven business. First, the organization needed to start with high-impact uses with data that solve the business. This allows the firm to build momentum in data culture and credibility of data usage in the company. Secondly, the company needs to manage all relevant data. The last step is continuous improvement and investment in data for the company(Waller, 2021).
+
+McDonald’s is a mature data-driven business because from the case study of their of data, that McDonald’s uses data extensively. They have a data culture which is necessary to manage their business because of their scale, to increase efficciency of their supply chain and adjusting their operation for different territories. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reference:
+Software Advisory Service. (n.d.). How BI and Big Data is Essential to McDonaldâs Growth Strategy. Retrieved October 8, 2021, from https://www.softwareadvisoryservice.com/en/blog/how-bi-and-big-data-is-essential-to-mcdonald-s-growth-strategy/
+Karrar, T. (2020, September 3). How McDonald's utilizes data to optimize customer journeys. Think with Google. https://www.thinkwithgoogle.com/intl/en-145/future-of-marketing/digital-transformation/how-mcdonalds-utilizes-data-optimize-customer-journeys-mena/
+Beers, A. (2020, February 21). The Five Elements You Need To Lead A Data Culture. Forbes. https://www.forbes.com/sites/forbestechcouncil/2020/02/21/the-five-elements-you-need-to-lead-a-data-culture/?sh=7df3f0272b96
+Data Culture. (n.d.). Data Culture | Using Technology & Culture to Drive Business Decisions | Tableau. Retrieved October 8, 2021, from https://www.tableau.com/why-tableau/data-culture
+Data Camp. (n.d.). Why Data Culture Is a Key Component of Data Strategy. DataCamp Community. Retrieved October 8, 2021, from https://www.datacamp.com/community/blog/data-culture
+Chicago Tribune. (2018, December 23). McDonald's: 60 years, billions served. Chicagotribune.Com. https://www.chicagotribune.com/business/chi-mcdonalds-60-years-20150415-story.html
+The important elements of a leading a data-driven organization. (2021, May 28). KPMG. https://home.kpmg/nl/nl/home/insights/2021/06/the-important-elements-of-a-leading-a-data-driven-organization.html
+Huffman, K. (2021, April 29). How To Build An Enduring And Successful Data Culture Within Your Organization. Forbes. https://www.forbes.com/sites/forbestechcouncil/2021/04/29/how-to-build-an-enduring-and-successful-data-culture-within-your-organization/
+
+Waller, D. (2020, February 6). 10 Steps to Creating a Data-Driven Culture. Harvard Business Review. https://hbr.org/2020/02/10-steps-to-creating-a-data-driven-culture
+
+
+
+
+
+
